@@ -1,4 +1,6 @@
 venv
 saved_models
 trial.ipynb 
+saved_models_bow
+saved_models_bert
 #this is used for login to hf
