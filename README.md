@@ -12,7 +12,8 @@ This repository contains code for model checkpointing, continual learning, and e
 [CS-203_LAB7_part1.ipynb](https://github.com/Aryan-IIT/model_checkpointing_cs203/blob/main/CS-203_LAB7_part1.ipynb)  
 - Complete model training, checkpointing, and evaluation.  
 - Bag-of-Words & Embeddings-based implementations.  
-- TensorBoard integration for monitoring.  
+- TensorBoard integration for monitoring.
+- We have used `bert-base-uncased` 
 
 Refer to this notebook for execution details and reproducibility.
 
