@@ -15,7 +15,7 @@ This repository contains code for model checkpointing, continual learning, and e
 - TensorBoard integration for monitoring.
 - We have used `bert-base-uncased` 
 
-Refer to this notebook for execution details and reproducibility.
+**Refer to this notebook for execution details and reproducibility.**
 
 ### 2. Secondary Notebook
 [CS-2203_LAB7_part-2.ipynb](https://github.com/Aryan-IIT/model_checkpointing_cs203/blob/main/CS-2203_LAB7_part-2.ipynb)  
