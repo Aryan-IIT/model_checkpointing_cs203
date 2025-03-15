@@ -4,4 +4,5 @@ trial.ipynb
 saved_models_bow
 saved_models_bert
 saved_bert_embed_imdb
+.DS_store
 #this is used for login to hf
