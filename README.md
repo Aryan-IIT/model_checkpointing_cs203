@@ -71,3 +71,23 @@ Refer to this notebook for execution details and reproducibility.
 ```bash
 git clone https://github.com/Aryan-IIT/model_checkpointing_cs203.git
 cd model_checkpointing_cs203
+```
+
+2. Install dependencies 
+```bash
+pip install -r requirements.txt
+```
+
+3. Run the main notebook 
+```bash
+jupyter notebook CS-203_LAB7_part1.ipynb
+```
+
+
+ 4. view tensorboard logs 
+```bash
+jupyter notebook CS-203_LAB7_part2.ipynb
+tensorboard --logdir=logs/ --port=6006
+```
+
+Then open http://localhost:6006/ in your browser.
