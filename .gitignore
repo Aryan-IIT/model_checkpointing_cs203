@@ -6,3 +6,4 @@ saved_models_bert
 saved_bert_embed_imdb
 .DS_store
 #this is used for login to hf
+#saved_bert_embed_imdb/IMDB_train_BERT_embeddings.npy not pushed as file is too large, hence the folder is put in gitignore
