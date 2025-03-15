@@ -86,7 +86,7 @@ jupyter notebook CS-203_LAB7_part1.ipynb
 
  4. view tensorboard logs 
 ```bash
-jupyter notebook CS-203_LAB7_part2.ipynb
+jupyter notebook CS-203_LAB7_part-2.ipynb
 tensorboard --logdir=logs/ --port=6006
 ```
 
